@@ -28,7 +28,7 @@ namespace oop_lab1
             }
             else if (result >= 30)
             {
-                Console.WriteLine($"Ваш ІМТ: {result}. Ожиріння, звернись до лікаря.");
+                Console.WriteLine($"Ваш ІМТ: {result}. Ожиріння, звернись до лікаря!");
             }
         }
     }
